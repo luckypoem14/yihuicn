@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://luckypoem14.github.com/yihuicn/
+url: http://luckypoem14.github.com/yihuicn
 author: 谢益辉
 pygments: true
 
